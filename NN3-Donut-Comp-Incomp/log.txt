@@ -1,0 +1,104 @@
+Time Elapsed: 0h:0m:1s
+Tue Oct  6 08:29:30 2015
+Img Size: 40x40
+Input Size: 1600
+Hidden Nodes: 40
+Output Size: 1
+Iterations: 143
+-----------------------
+Time Elapsed: 0h:0m:0s
+Tue Oct  6 08:42:12 2015
+Img Size: 40x40
+Input Size: 1600
+Hidden Nodes: 40
+Output Size: 1
+Iterations: 9
+-----------------------
+Time Elapsed: 0h:0m:5s
+Tue Oct  6 08:47:03 2015
+Img Size: 40x40
+Input Size: 1600
+Hidden Nodes: 40
+Output Size: 1
+Iterations: 386
+-----------------------
+Time Elapsed: 0h:0m:5s
+Tue Oct  6 08:48:41 2015
+Img Size: 40x40
+Input Size: 1600
+Hidden Nodes: 40
+Output Size: 1
+Iterations: 423
+-----------------------
+Time Elapsed: 0h:0m:3s
+Tue Oct  6 08:51:01 2015
+Img Size: 40x40
+Input Size: 1600
+Hidden Nodes: 40
+Output Size: 1
+Iterations: 141
+-----------------------
+Time Elapsed: 0h:0m:4s
+Tue Oct  6 09:04:31 2015
+Img Size: 40x40
+Input Size: 1600
+Hidden Nodes: 40
+Output Size: 1
+Iterations: 203
+-----------------------
+Time Elapsed: 0h:0m:8s
+Tue Oct  6 09:26:23 2015
+Img Size: 40x40
+Input Size: 1600
+Hidden Nodes: 40
+Output Size: 1
+Iterations: 305
+-----------------------
+Time Elapsed: 0h:0m:6s
+Tue Oct  6 09:53:40 2015
+Img Size: 40x40
+Input Size: 1600
+Hidden Nodes: 40
+Output Size: 1
+Iterations: 214
+-----------------------
+Time Elapsed: 0h:0m:10s
+Tue Oct  6 10:07:44 2015
+Img Size: 40x40
+Input Size: 1600
+Hidden Nodes: 40
+Output Size: 1
+Iterations: 342
+-----------------------
+Time Elapsed: 0h:0m:0s
+Tue Oct  6 10:16:37 2015
+Img Size: 40x40
+Input Size: 1600
+Hidden Nodes: 40
+Output Size: 1
+Iterations: 4
+-----------------------
+Time Elapsed: 0h:0m:0s
+Tue Oct  6 10:17:21 2015
+Img Size: 40x40
+Input Size: 1600
+Hidden Nodes: 40
+Output Size: 1
+Iterations: 4
+-----------------------
+Time Elapsed: 0h:0m:7s
+Tue Oct  6 10:31:08 2015
+Img Size: 40x40
+Input Size: 1600
+Hidden Nodes: 40
+Output Size: 1
+Iterations: 239
+-----------------------
+Time Elapsed: 0h:0m:11s
+Tue Oct  6 10:41:02 2015
+Img Size: 40x40
+Input Size: 1600
+Hidden Nodes: 40
+Output Size: 1
+Iterations: 333
+-----------------------
