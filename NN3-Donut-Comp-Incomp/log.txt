@@ -118,3 +118,47 @@ Hidden Nodes: 40
 Output Size: 1
 Iterations: 317
 -----------------------
+Time Elapsed: 0h:0m:10s
+Fri May 20 10:17:31 2016_Img Size: 40x40
+Input Size: 1600
+Hidden Nodes: 40
+Output Size: 1
+Iterations: 303
+-----------------------
+Time Elapsed: 0h:0m:9s
+Fri May 20 10:28:11 2016_Img Size: 40x40
+Input Size: 1600
+Hidden Nodes: 40
+Output Size: 1
+Iterations: 303
+-----------------------
+Time Elapsed: 0h:0m:9s
+Fri May 20 10:29:02 2016_Img Size: 40x40
+Input Size: 1600
+Hidden Nodes: 40
+Output Size: 1
+Iterations: 317
+-----------------------
+Time Elapsed: 0h:0m:10s
+Fri May 20 10:39:11 2016_Img Size: 40x40
+Input Size: 1600
+Hidden Nodes: 40
+Output Size: 1
+Iterations: 317
+-----------------------
+Time Elapsed: 0h:0m:9s
+Fri May 20 10:43:21 2016_Img Size: 40x40
+Input Size: 1600
+Hidden Nodes: 40
+Output Size: 1
+Sample Size: 144
+Iterations: 317
+-----------------------
+Time Elapsed: 0h:0m:10s
+Fri May 20 10:49:21 2016_Img Size: 40x40
+Input Size: 1600
+Hidden Nodes: 40
+Output Size: 1
+Sample Size: 144
+Iterations: 317
+-----------------------
